@@ -217,7 +217,8 @@ async function main() {
         'gacha_records.json',
         json
     )
-    console.log('已保存到 gacha_records.json')
+
+    alert('已保存到 gacha_records.json')
 }
 
 if (import.meta.main) {
