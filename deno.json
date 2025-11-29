@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "compile": "deno compile -A get_and_save_gacha_records.ts; deno compile -A get_gacha_link.ts"
+  }
+}
