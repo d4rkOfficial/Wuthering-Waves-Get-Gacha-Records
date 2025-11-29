@@ -17,6 +17,7 @@ deno run -A get_and_save_gocha_record.ts
 ```
 
 也可以直接下载可执行文件（.exe）
+[点此下载 v1.0.0](https://github.com/d4rkOfficial/Wuthering-Waves-Get-Gacha-Records/releases/tag/v1.0.0)
 
 ## 补充
 
